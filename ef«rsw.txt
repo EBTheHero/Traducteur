@@ -1,0 +1,16 @@
+200 neurones
+
+Iteration 9
+Train on 45000 samples, validate on 5000 samples
+Epoch 1/1
+45000/45000 [==============================] - 68s 2ms/step - loss: 0.6428 - acc: 0.8169 - val_loss: 0.6395 - val_acc: 0.8169
+In: MGZG;JJPL;PWLQ;                                                 Expected: {"C1":"MGZG","C2":"JJPL","C3":"PWLQ"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: QAGQ;VKDG;ADFP;                                                 Expected: {"C1":"QAGQ","C2":"VKDG","C3":"ADFP"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: HGCU;UESZ;BGJF;                                                 Expected: {"C1":"HGCU","C2":"UESZ","C3":"BGJF"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: FAYD;LELE;MNCA;                                                 Expected: {"C1":"FAYD","C2":"LELE","C3":"MNCA"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: MZBU;WFSB;FNDB;                                                 Expected: {"C1":"MZBU","C2":"WFSB","C3":"FNDB"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: PFBZ;DEPN;INDZ;                                                 Expected: {"C1":"PFBZ","C2":"DEPN","C3":"INDZ"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: XRSM;DUIH;GQIN;                                                 Expected: {"C1":"XRSM","C2":"DUIH","C3":"GQIN"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: WUCF;JJUF;TAKD;                                                 Expected: {"C1":"WUCF","C2":"JJUF","C3":"TAKD"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: HRCY;LITU;GUTD;                                                 Expected: {"C1":"HRCY","C2":"LITU","C3":"GUTD"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
+In: IQFJ;OZIZ;REQP;                                                 Expected: {"C1":"IQFJ","C2":"OZIZ","C3":"REQP"}                           Out: {"C1":"KDLV","C2":"ROGL","C3":"EKRG"}
